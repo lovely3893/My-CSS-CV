@@ -1,0 +1,94 @@
+body {
+  text-align: center;
+  margin: 0px;
+  font-family: "Amiri", serif;
+  color: #40514E;
+}
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-width: 5px;
+    border-color: #EAF6F6;
+    width: 5%;
+    
+}
+h1 {
+  margin-top: 0px;
+  font-family: "Dancing Script", cursive;
+  font-size: 5.65rem;
+  color: #66BFBF;
+}
+h2{
+    margin: 50px auto 0 auto;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5rem;
+    color: #66bfbf;
+    padding-bottom: 10px;
+}
+p{
+    line-height: 2;
+}
+a{
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.a:hover{
+    color: azure;
+}
+h3{
+    font-family: 'Raleway', sans-serif;
+    font-size: #66BFBF;
+}
+h2.web{
+    font-weight: normal;
+    }
+.middle-container {
+  
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.bottom-container {
+    background-color: #66BFBF;
+    color: #EAF6F6;
+    padding: 50px 0 20px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+p{
+    line-height: 2;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+a{
+   font-size: #11999e;
+    color: #11999E;
+}
+.Code{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.java{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
